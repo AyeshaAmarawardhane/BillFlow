@@ -1,5 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+
+    <!-- BillFlow Brand -->
+    <color name="billflow_navy">#1F3A5F</color>
+    <color name="billflow_teal">#20A67A</color>
+
+    <!-- Background / Surface -->
+    <color name="billflow_background">#F7F9FC</color>
+    <color name="white">#FFFFFF</color>
+    <color name="light_grey">#E5E7EB</color>
+
+    <!-- Text -->
+    <color name="text_primary">#111827</color>
+    <color name="text_secondary">#667085</color>
+
+    <!-- Payment Status -->
+    <color name="success_green">#20A67A</color>
+    <color name="warning_amber">#F59E0B</color>
+    <color name="error_red">#EF4444</color>
+
 </resources>
